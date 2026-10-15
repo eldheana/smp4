@@ -1,0 +1,6 @@
+{
+  "name": "CerdasCermat Pro - Platform Latihan & Kompetisi Cerdas Cermat Real-Time",
+  "description": "Platform kompetisi dan latihan cerdas cermat daring real-time dengan bel rebutan interaktif, papan peringkat ala Wayground, mode pencocokan Wordwall, panel 5 juri, enkripsi E2EE, dan generator soal AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
